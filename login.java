@@ -1,4 +1,3 @@
-create conflict 
-a=200
-b=250
+create conflict a=200
+ b=280
 
